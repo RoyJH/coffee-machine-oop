@@ -1,5 +1,6 @@
 # coffee-machine-oop
 Coffee Machine - OOP
+
 OOP Version of previous project.
 
 This version checks if there's enough resources to brew any of the availiable drinks.  
